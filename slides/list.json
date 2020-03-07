@@ -1,0 +1,90 @@
+[
+    {
+        "filename": "index.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/background.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "1_secreto.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/secreto.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "2_standby.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/standby.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "3_la_vida.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/la_vida.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "4_pasos.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/pasos.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "5_mariposas.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/mariposas.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "6_zarzamoras.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/zarzamoras.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "7_deseo.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/deseo.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "8_after_sex.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/cigaretters_after_sex.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "happybirthday.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/happy-birthday-written-in-the-sky.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "greetings.md",
+        "data-transition": "zoom",
+        "attr": {
+            "data-background": "resources/contigo_emocional.jpg",
+            "class": "center"
+        }
+    }
+]

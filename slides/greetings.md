@@ -1,0 +1,2 @@
+[![Adri_lopeta](resources/avatar_insta.jpg)<!-- .element: style="border-radius: 50%; border:0px; vertical-align: baseline;" -->](http://instagram.com/adri_lopeta)<!-- .element: style="padding-bottom: 0px;" -->
+###### [instagram.com/adri_lopeta](http://instagram.com/adri_lopeta)<!-- .element: style="padding-top: 0px; text-align:center; vertical-align:top; color:#ffc;" -->
